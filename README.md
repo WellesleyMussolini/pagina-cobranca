@@ -30,7 +30,7 @@
  
 - [x] Cadastrar Usuário
 - [x] Fazer Login
-- [x] Plano/Assinatura mensal ou anual
+- [x] Plano de assinatura de serviço mensal/anual
 
 
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#tecnologias-usadas"><a/>Tecnologias Usadas</h1>
