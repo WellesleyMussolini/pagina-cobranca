@@ -36,6 +36,7 @@
 <h1 dir="auto"><a aria-hidden="true" class="anchor" href="#tecnologias-usadas"><a/>Tecnologias Usadas</h1>
 <ul class="contains-task-list">
     <li class="task-list-item"><strong>HTML</strong></li>
+    <li class="task-list-item"><strong>JS</strong></li>
     <li class="task-list-item"> <strong>CSS</strong></li>
 </ul>
 
